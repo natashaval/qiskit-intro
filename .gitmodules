@@ -1,0 +1,3 @@
+[submodule "ibm-quantum-challenge-2024"]
+	path = ibm-quantum-challenge-2024
+	url = git@github.com:natashaval/ibm-quantum-challenge-2024.git
